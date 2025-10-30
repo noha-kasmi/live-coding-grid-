@@ -16,8 +16,6 @@ body{
 
 .img-c1{
     background-image: url(/assets/images/illustration-create-post.webp);
-    /* width: 20px;
-    height: 20px; */
 }
 
 .card1{
@@ -28,8 +26,6 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* height: 120px;
-    max-width: 100px; */
 }
 
 .card2{
@@ -70,3 +66,4 @@ body{
 .card6{
     background-color: blueviolet;
 }
+
